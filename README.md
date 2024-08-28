@@ -1,5 +1,5 @@
 Container Docker
-<img width="1440" alt="Container_Docker" src="https://github.com/user-attachments/assets/51dd6496-2ae5-405a-9f60-19cf5b41fe02">
+<img width="950" alt="Container_Docker" src="https://github.com/user-attachments/assets/51dd6496-2ae5-405a-9f60-19cf5b41fe02">
 
 Images Docker
 <img width="1440" alt="Images_Docker" src="https://github.com/user-attachments/assets/49ace6dd-43cd-4188-b478-a96cb9d05534">
